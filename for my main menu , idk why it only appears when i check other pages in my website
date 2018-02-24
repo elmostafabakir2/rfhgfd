@@ -1,0 +1,5 @@
+<nav id='main-nav'>
+    <div class='header-menu row'>
+<li class='li li-home'><a expr:href='data:blog.homepageUrl'>Home</a></li>
+      <b:section id='menu' maxwidgets='2' name='Main Menu' showaddelement='yes'>
+        <b:widget id='LinkList98' locked='true' title='Main Menu' type='LinkList' version='1'>
